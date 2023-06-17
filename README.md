@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lovie! (@LEkwem)
+- 👋 Hi, I’m Lovie (@LEkwem)
 - 👀 I’m interested in data science, health, and technology.
 - 🌱 I’m currently learning data science and software design.
 - 💞️ I’m looking to collaborate on data science projects (particularly Machine Learning and Data Visualization)
